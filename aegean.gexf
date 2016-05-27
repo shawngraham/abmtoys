@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2016-05-26">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="name" title="Name" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="Aegina" label="Aegina">
+        <attvalues>
+          <attvalue for="name" value="Aegina"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="78.86056" y="-104.85488"></viz:position>
+      </node>
+      <node id="Lavrion" label="Lavrion">
+        <attvalues>
+          <attvalue for="name" value="Lavrion"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="80.61149" y="-78.07533"></viz:position>
+      </node>
+      <node id="Kea" label="Kea">
+        <attvalues>
+          <attvalue for="name" value="Kea"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="80.29083" y="-61.602375"></viz:position>
+      </node>
+      <node id="Paroikia" label="Paroikia">
+        <attvalues>
+          <attvalue for="name" value="Paroikia"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="68.39322" y="-9.760249"></viz:position>
+      </node>
+      <node id="Naxos" label="Naxos">
+        <attvalues>
+          <attvalue for="name" value="Naxos"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="44.60199" y="9.081447"></viz:position>
+      </node>
+      <node id="Ios" label="Ios">
+        <attvalues>
+          <attvalue for="name" value="Ios"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="47.923325" y="-5.2271194"></viz:position>
+      </node>
+      <node id="Akrotiri" label="Akrotiri">
+        <attvalues>
+          <attvalue for="name" value="Akrotiri"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="3.4400675" y="-25.561504"></viz:position>
+      </node>
+      <node id="Amorgos" label="Amorgos">
+        <attvalues>
+          <attvalue for="name" value="Amorgos"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="57.548805" y="51.718327"></viz:position>
+      </node>
+      <node id="Samos" label="Samos">
+        <attvalues>
+          <attvalue for="name" value="Samos"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="54.00169" y="120.56844"></viz:position>
+      </node>
+      <node id="Miletus" label="Miletus">
+        <attvalues>
+          <attvalue for="name" value="Miletus"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="60.985104" y="152.21144"></viz:position>
+      </node>
+      <node id="Myndus" label="Myndus">
+        <attvalues>
+          <attvalue for="name" value="Myndus"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="45.22888" y="156.85391"></viz:position>
+      </node>
+      <node id="Kalymnos" label="Kalymnos">
+        <attvalues>
+          <attvalue for="name" value="Kalymnos"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="50.268158" y="134.29448"></viz:position>
+      </node>
+      <node id="Kos" label="Kos">
+        <attvalues>
+          <attvalue for="name" value="Kos"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="30.42129" y="146.44626"></viz:position>
+      </node>
+      <node id="Akbuk" label="Akbuk">
+        <attvalues>
+          <attvalue for="name" value="Akbuk"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="43.7898" y="176.89032"></viz:position>
+      </node>
+      <node id="Iasos" label="Iasos">
+        <attvalues>
+          <attvalue for="name" value="Iasos"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="21.046766" y="159.00856"></viz:position>
+      </node>
+      <node id="Chania" label="Chania">
+        <attvalues>
+          <attvalue for="name" value="Chania"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-54.53538" y="-155.88458"></viz:position>
+      </node>
+      <node id="Rethymnon" label="Rethymnon">
+        <attvalues>
+          <attvalue for="name" value="Rethymnon"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-75.99166" y="-141.36723"></viz:position>
+      </node>
+      <node id="Kommos" label="Kommos">
+        <attvalues>
+          <attvalue for="name" value="Kommos"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-73.345825" y="-118.264015"></viz:position>
+      </node>
+      <node id="Phaistos" label="Phaistos">
+        <attvalues>
+          <attvalue for="name" value="Phaistos"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-83.953255" y="-113.38986"></viz:position>
+      </node>
+      <node id="Knossos" label="Knossos">
+        <attvalues>
+          <attvalue for="name" value="Knossos"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-66.49096" y="-66.93594"></viz:position>
+      </node>
+      <node id="Ayia_Triadha" label="Ayia_Triadha">
+        <attvalues>
+          <attvalue for="name" value="Ayia_Triadha"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-86.36873" y="-77.01407"></viz:position>
+      </node>
+      <node id="Malia" label="Malia">
+        <attvalues>
+          <attvalue for="name" value="Malia"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-65.62386" y="-16.74056"></viz:position>
+      </node>
+      <node id="Petras" label="Petras">
+        <attvalues>
+          <attvalue for="name" value="Petras"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-81.73938" y="0.7123683"></viz:position>
+      </node>
+      <node id="Palaikastro" label="Palaikastro">
+        <attvalues>
+          <attvalue for="name" value="Palaikastro"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-100.00968" y="-0.22389871"></viz:position>
+      </node>
+      <node id="Gournia" label="Gournia">
+        <attvalues>
+          <attvalue for="name" value="Gournia"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-91.02114" y="-27.89784"></viz:position>
+      </node>
+      <node id="Zakros" label="Zakros">
+        <attvalues>
+          <attvalue for="name" value="Zakros"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-114.12226" y="-4.578505"></viz:position>
+      </node>
+      <node id="Kasos" label="Kasos">
+        <attvalues>
+          <attvalue for="name" value="Kasos"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-95.39072" y="14.395308"></viz:position>
+      </node>
+      <node id="Karpathos" label="Karpathos">
+        <attvalues>
+          <attvalue for="name" value="Karpathos"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-68.2596" y="34.06288"></viz:position>
+      </node>
+      <node id="Mycenae" label="Mycenae">
+        <attvalues>
+          <attvalue for="name" value="Mycenae"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="56.86138" y="-147.09698"></viz:position>
+      </node>
+      <node id="Ayios_Stephanos" label="Ayios_Stephanos">
+        <attvalues>
+          <attvalue for="name" value="Ayios_Stephanos"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="24.692463" y="-170.70596"></viz:position>
+      </node>
+      <node id="Kastri" label="Kastri">
+        <attvalues>
+          <attvalue for="name" value="Kastri"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-13.867135" y="-174.13632"></viz:position>
+      </node>
+      <node id="Phylakopi" label="Phylakopi">
+        <attvalues>
+          <attvalue for="name" value="Phylakopi"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="59.800903" y="-40.612076"></viz:position>
+      </node>
+      <node id="Cesme" label="Cesme">
+        <attvalues>
+          <attvalue for="name" value="Cesme"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="77.57848" y="140.26167"></viz:position>
+      </node>
+      <node id="Rhodes" label="Rhodes">
+        <attvalues>
+          <attvalue for="name" value="Rhodes"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2.1315918" y="116.35653"></viz:position>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Aegina" target="Lavrion"></edge>
+      <edge id="1" source="Lavrion" target="Kea"></edge>
+      <edge id="2" source="Paroikia" target="Naxos"></edge>
+      <edge id="3" source="Paroikia" target="Ios"></edge>
+      <edge id="4" source="Ios" target="Akrotiri"></edge>
+      <edge id="5" source="Ios" target="Naxos"></edge>
+      <edge id="6" source="Naxos" target="Amorgos"></edge>
+      <edge id="7" source="Samos" target="Miletus"></edge>
+      <edge id="8" source="Samos" target="Myndus"></edge>
+      <edge id="9" source="Kalymnos" target="Myndus" weight="2.0"></edge>
+      <edge id="10" source="Kalymnos" target="Miletus" weight="2.0"></edge>
+      <edge id="11" source="Kalymnos" target="Kos" weight="2.0"></edge>
+      <edge id="13" source="Miletus" target="Myndus"></edge>
+      <edge id="14" source="Kos" target="Myndus"></edge>
+      <edge id="15" source="Myndus" target="Akbuk"></edge>
+      <edge id="16" source="Akbuk" target="Miletus"></edge>
+      <edge id="17" source="Akbuk" target="Iasos"></edge>
+      <edge id="18" source="Iasos" target="Myndus"></edge>
+      <edge id="19" source="Chania" target="Rethymnon"></edge>
+      <edge id="20" source="Rethymnon" target="Kommos"></edge>
+      <edge id="21" source="Rethymnon" target="Phaistos"></edge>
+      <edge id="22" source="Kommos" target="Phaistos"></edge>
+      <edge id="24" source="Phaistos" target="Knossos"></edge>
+      <edge id="25" source="Kommos" target="Ayia_Triadha"></edge>
+      <edge id="26" source="Kommos" target="Knossos"></edge>
+      <edge id="27" source="Ayia_Triadha" target="Knossos"></edge>
+      <edge id="28" source="Knossos" target="Malia"></edge>
+      <edge id="29" source="Malia" target="Petras"></edge>
+      <edge id="30" source="Petras" target="Palaikastro"></edge>
+      <edge id="31" source="Petras" target="Gournia"></edge>
+      <edge id="32" source="Gournia" target="Zakros"></edge>
+      <edge id="33" source="Zakros" target="Palaikastro"></edge>
+      <edge id="34" source="Palaikastro" target="Kasos"></edge>
+      <edge id="35" source="Kasos" target="Karpathos"></edge>
+      <edge id="36" source="Aegina" target="Kea"></edge>
+      <edge id="37" source="Aegina" target="Mycenae"></edge>
+      <edge id="38" source="Mycenae" target="Ayios_Stephanos"></edge>
+      <edge id="39" source="Ayios_Stephanos" target="Kastri"></edge>
+      <edge id="40" source="Kastri" target="Chania"></edge>
+      <edge id="41" source="Kea" target="Paroikia"></edge>
+      <edge id="42" source="Paroikia" target="Phylakopi"></edge>
+      <edge id="43" source="Phylakopi" target="Ios"></edge>
+      <edge id="44" source="Phylakopi" target="Akrotiri"></edge>
+      <edge id="45" source="Naxos" target="Akrotiri"></edge>
+      <edge id="46" source="Ios" target="Amorgos"></edge>
+      <edge id="47" source="Paroikia" target="Amorgos"></edge>
+      <edge id="48" source="Amorgos" target="Kalymnos"></edge>
+      <edge id="49" source="Kalymnos" target="Samos" weight="2.0"></edge>
+      <edge id="50" source="Samos" target="Cesme"></edge>
+      <edge id="51" source="Cesme" target="Miletus"></edge>
+      <edge id="52" source="Kos" target="Miletus"></edge>
+      <edge id="53" source="Kos" target="Iasos" weight="2.0"></edge>
+      <edge id="54" source="Kos" target="Rhodes"></edge>
+      <edge id="55" source="Rhodes" target="Iasos"></edge>
+      <edge id="56" source="Chania" target="Kommos"></edge>
+      <edge id="57" source="Ayia_Triadha" target="Gournia"></edge>
+      <edge id="58" source="Knossos" target="Gournia"></edge>
+      <edge id="60" source="Palaikastro" target="Malia"></edge>
+      <edge id="61" source="Zakros" target="Kasos"></edge>
+      <edge id="62" source="Petras" target="Karpathos"></edge>
+      <edge id="64" source="Phylakopi" target="Kea"></edge>
+      <edge id="65" source="Phylakopi" target="Lavrion"></edge>
+      <edge id="66" source="Knossos" target="Akrotiri"></edge>
+      <edge id="67" source="Amorgos" target="Samos"></edge>
+      <edge id="68" source="Rhodes" target="Samos"></edge>
+      <edge id="70" source="Malia" target="Kasos"></edge>
+      <edge id="71" source="Gournia" target="Karpathos"></edge>
+      <edge id="72" source="Karpathos" target="Rhodes"></edge>
+      <edge id="73" source="Malia" target="Akrotiri"></edge>
+    </edges>
+  </graph>
+</gexf>

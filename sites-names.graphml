@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key attr.name="label" attr.type="string" for="node" id="label"/>
+<key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+<key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+<key attr.name="Edge Id" attr.type="string" for="edge" id="edgeid"/>
+<key attr.name="r" attr.type="int" for="node" id="r"/>
+<key attr.name="g" attr.type="int" for="node" id="g"/>
+<key attr.name="b" attr.type="int" for="node" id="b"/>
+<key attr.name="x" attr.type="float" for="node" id="x"/>
+<key attr.name="y" attr.type="float" for="node" id="y"/>
+<key attr.name="size" attr.type="float" for="node" id="size"/>
+<graph edgedefault="undirected">
+<node id="Aegina">
+<data key="label">Aegina</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">78.86056</data>
+<data key="y">-104.85488</data>
+</node>
+<node id="Lavrion">
+<data key="label">Lavrion</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">80.61149</data>
+<data key="y">-78.07533</data>
+</node>
+<node id="Kea">
+<data key="label">Kea</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">80.29083</data>
+<data key="y">-61.602375</data>
+</node>
+<node id="Paroikia">
+<data key="label">Paroikia</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">68.39322</data>
+<data key="y">-9.760249</data>
+</node>
+<node id="Naxos">
+<data key="label">Naxos</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">44.60199</data>
+<data key="y">9.081447</data>
+</node>
+<node id="Ios">
+<data key="label">Ios</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">47.923325</data>
+<data key="y">-5.2271194</data>
+</node>
+<node id="Akrotiri">
+<data key="label">Akrotiri</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">3.4400675</data>
+<data key="y">-25.561504</data>
+</node>
+<node id="Amorgos">
+<data key="label">Amorgos</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">57.548805</data>
+<data key="y">51.718327</data>
+</node>
+<node id="Samos">
+<data key="label">Samos</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">54.00169</data>
+<data key="y">120.56844</data>
+</node>
+<node id="Miletus">
+<data key="label">Miletus</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">60.985104</data>
+<data key="y">152.21144</data>
+</node>
+<node id="Myndus">
+<data key="label">Myndus</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">45.22888</data>
+<data key="y">156.85391</data>
+</node>
+<node id="Kalymnos">
+<data key="label">Kalymnos</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">50.268158</data>
+<data key="y">134.29448</data>
+</node>
+<node id="Kos">
+<data key="label">Kos</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">30.42129</data>
+<data key="y">146.44626</data>
+</node>
+<node id="Akbuk">
+<data key="label">Akbuk</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">43.7898</data>
+<data key="y">176.89032</data>
+</node>
+<node id="Iasos">
+<data key="label">Iasos</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">21.046766</data>
+<data key="y">159.00856</data>
+</node>
+<node id="Chania">
+<data key="label">Chania</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-54.53538</data>
+<data key="y">-155.88458</data>
+</node>
+<node id="Rethymnon">
+<data key="label">Rethymnon</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-75.99166</data>
+<data key="y">-141.36723</data>
+</node>
+<node id="Kommos">
+<data key="label">Kommos</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-73.345825</data>
+<data key="y">-118.264015</data>
+</node>
+<node id="Phaistos">
+<data key="label">Phaistos</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-83.953255</data>
+<data key="y">-113.38986</data>
+</node>
+<node id="Knossos">
+<data key="label">Knossos</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-66.49096</data>
+<data key="y">-66.93594</data>
+</node>
+<node id="Ayia_Triadha">
+<data key="label">Ayia_Triadha</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-86.36873</data>
+<data key="y">-77.01407</data>
+</node>
+<node id="Malia">
+<data key="label">Malia</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-65.62386</data>
+<data key="y">-16.74056</data>
+</node>
+<node id="Petras">
+<data key="label">Petras</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-81.73938</data>
+<data key="y">0.7123683</data>
+</node>
+<node id="Palaikastro">
+<data key="label">Palaikastro</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-100.00968</data>
+<data key="y">-0.22389871</data>
+</node>
+<node id="Gournia">
+<data key="label">Gournia</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-91.02114</data>
+<data key="y">-27.89784</data>
+</node>
+<node id="Zakros">
+<data key="label">Zakros</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-114.12226</data>
+<data key="y">-4.578505</data>
+</node>
+<node id="Kasos">
+<data key="label">Kasos</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-95.39072</data>
+<data key="y">14.395308</data>
+</node>
+<node id="Karpathos">
+<data key="label">Karpathos</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-68.2596</data>
+<data key="y">34.06288</data>
+</node>
+<node id="Mycenae">
+<data key="label">Mycenae</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">56.86138</data>
+<data key="y">-147.09698</data>
+</node>
+<node id="Ayios_Stephanos">
+<data key="label">Ayios_Stephanos</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">24.692463</data>
+<data key="y">-170.70596</data>
+</node>
+<node id="Kastri">
+<data key="label">Kastri</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-13.867135</data>
+<data key="y">-174.13632</data>
+</node>
+<node id="Phylakopi">
+<data key="label">Phylakopi</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">59.800903</data>
+<data key="y">-40.612076</data>
+</node>
+<node id="Cesme">
+<data key="label">Cesme</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">77.57848</data>
+<data key="y">140.26167</data>
+</node>
+<node id="Rhodes">
+<data key="label">Rhodes</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">2.1315918</data>
+<data key="y">116.35653</data>
+</node>
+<edge source="Aegina" target="Lavrion">
+<data key="edgeid">0</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Lavrion" target="Kea">
+<data key="edgeid">1</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Paroikia" target="Naxos">
+<data key="edgeid">2</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Paroikia" target="Ios">
+<data key="edgeid">3</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Ios" target="Akrotiri">
+<data key="edgeid">4</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Ios" target="Naxos">
+<data key="edgeid">5</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Naxos" target="Amorgos">
+<data key="edgeid">6</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Samos" target="Miletus">
+<data key="edgeid">7</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Samos" target="Myndus">
+<data key="edgeid">8</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Kalymnos" target="Myndus">
+<data key="edgeid">9</data>
+<data key="weight">2.0</data>
+</edge>
+<edge source="Kalymnos" target="Miletus">
+<data key="edgeid">10</data>
+<data key="weight">2.0</data>
+</edge>
+<edge source="Kalymnos" target="Kos">
+<data key="edgeid">11</data>
+<data key="weight">2.0</data>
+</edge>
+<edge source="Miletus" target="Myndus">
+<data key="edgeid">13</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Kos" target="Myndus">
+<data key="edgeid">14</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Myndus" target="Akbuk">
+<data key="edgeid">15</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Akbuk" target="Miletus">
+<data key="edgeid">16</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Akbuk" target="Iasos">
+<data key="edgeid">17</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Iasos" target="Myndus">
+<data key="edgeid">18</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Chania" target="Rethymnon">
+<data key="edgeid">19</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Rethymnon" target="Kommos">
+<data key="edgeid">20</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Rethymnon" target="Phaistos">
+<data key="edgeid">21</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Kommos" target="Phaistos">
+<data key="edgeid">22</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Phaistos" target="Knossos">
+<data key="edgeid">24</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Kommos" target="Ayia_Triadha">
+<data key="edgeid">25</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Kommos" target="Knossos">
+<data key="edgeid">26</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Ayia_Triadha" target="Knossos">
+<data key="edgeid">27</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Knossos" target="Malia">
+<data key="edgeid">28</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Malia" target="Petras">
+<data key="edgeid">29</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Petras" target="Palaikastro">
+<data key="edgeid">30</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Petras" target="Gournia">
+<data key="edgeid">31</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Gournia" target="Zakros">
+<data key="edgeid">32</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Zakros" target="Palaikastro">
+<data key="edgeid">33</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Palaikastro" target="Kasos">
+<data key="edgeid">34</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Kasos" target="Karpathos">
+<data key="edgeid">35</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Aegina" target="Kea">
+<data key="edgeid">36</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Aegina" target="Mycenae">
+<data key="edgeid">37</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Mycenae" target="Ayios_Stephanos">
+<data key="edgeid">38</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Ayios_Stephanos" target="Kastri">
+<data key="edgeid">39</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Kastri" target="Chania">
+<data key="edgeid">40</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Kea" target="Paroikia">
+<data key="edgeid">41</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Paroikia" target="Phylakopi">
+<data key="edgeid">42</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Phylakopi" target="Ios">
+<data key="edgeid">43</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Phylakopi" target="Akrotiri">
+<data key="edgeid">44</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Naxos" target="Akrotiri">
+<data key="edgeid">45</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Ios" target="Amorgos">
+<data key="edgeid">46</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Paroikia" target="Amorgos">
+<data key="edgeid">47</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Amorgos" target="Kalymnos">
+<data key="edgeid">48</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Kalymnos" target="Samos">
+<data key="edgeid">49</data>
+<data key="weight">2.0</data>
+</edge>
+<edge source="Samos" target="Cesme">
+<data key="edgeid">50</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Cesme" target="Miletus">
+<data key="edgeid">51</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Kos" target="Miletus">
+<data key="edgeid">52</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Kos" target="Iasos">
+<data key="edgeid">53</data>
+<data key="weight">2.0</data>
+</edge>
+<edge source="Kos" target="Rhodes">
+<data key="edgeid">54</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Rhodes" target="Iasos">
+<data key="edgeid">55</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Chania" target="Kommos">
+<data key="edgeid">56</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Ayia_Triadha" target="Gournia">
+<data key="edgeid">57</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Knossos" target="Gournia">
+<data key="edgeid">58</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Palaikastro" target="Malia">
+<data key="edgeid">60</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Zakros" target="Kasos">
+<data key="edgeid">61</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Petras" target="Karpathos">
+<data key="edgeid">62</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Phylakopi" target="Kea">
+<data key="edgeid">64</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Phylakopi" target="Lavrion">
+<data key="edgeid">65</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Knossos" target="Akrotiri">
+<data key="edgeid">66</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Amorgos" target="Samos">
+<data key="edgeid">67</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Rhodes" target="Samos">
+<data key="edgeid">68</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Malia" target="Kasos">
+<data key="edgeid">70</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Gournia" target="Karpathos">
+<data key="edgeid">71</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Karpathos" target="Rhodes">
+<data key="edgeid">72</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Malia" target="Akrotiri">
+<data key="edgeid">73</data>
+<data key="weight">1.0</data>
+</edge>
+</graph>
+</graphml>
