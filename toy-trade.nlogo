@@ -203,7 +203,7 @@ CHOOSER
 file-name
 file-name
 "sourcenets/aegean.gexf" "sourcenets/empire.gexf"
-0
+1
 
 MONITOR
 955
@@ -235,10 +235,10 @@ PENS
 "default" 1.0 1 -16777216 true "" "let max-pots max [pots] of sites\nset-plot-x-range 0 (max-pots + 1)\nhistogram [pots] of sites"
 
 BUTTON
-155
-12
-246
-45
+10
+287
+101
+320
 Remove Labels
 ask turtles [set label \" \"]
 NIL
@@ -313,12 +313,12 @@ If Roman Empire, these buttons will inspect:
 1
 
 BUTTON
-9
-322
-108
-355
+113
+287
+212
+320
 Show Labels
-ask sites with [pots > num-pots][set label Name]
+ask sites with [pots > 0][set label Name]
 NIL
 1
 T
