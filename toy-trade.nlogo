@@ -16,7 +16,7 @@ to setup
   repeat 500 [layout]
   ask sites [
     set pots num-pots
-    set label Name set label-color red
+    set label " "
    ]
   reset-ticks
 end
@@ -30,7 +30,7 @@ to load-sites
 end
 
 to layout
-ifelse file-name = "aegean.gexf"
+ifelse file-name = "sourcenets/aegean.gexf"
  [layout-spring sites edges (.1 / count sites) (.7 / count sites)  ( .1 / count sites)]
  [
   ;; the number 3 here is arbitrary; more repetitions slows down the
@@ -78,7 +78,9 @@ to go
        ]
    ]
   ;local-produce
-  ask sites [set size 0.1 + 5 * sqrt (pots / total-pots)]
+  ask sites [set size 0.1 + 5 * sqrt (pots / total-pots) ]
+  ask sites with [pots > num-pots][set label Name]
+  ask sites with [pots < num-pots][set label " "]
   tick
 end
 
@@ -196,11 +198,11 @@ Site graph & labels:\n\nMinoan: http://citeseerx.ist.psu.edu/viewdoc/download?do
 CHOOSER
 10
 239
-152
+210
 284
 file-name
 file-name
-"aegean.gexf" "empire.gexf"
+"sourcenets/aegean.gexf" "sourcenets/empire.gexf"
 0
 
 MONITOR
